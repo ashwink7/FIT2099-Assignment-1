@@ -18,6 +18,7 @@ import edu.monash.fit2099.simulator.userInterface.MessageRenderer;
  * 2017-02-08: The execute will only call the act of the SWActor is alive (asel) 
  * 2017-02-20: Removed the redundant compareTo method. The compareTo method is already implemented in the 
  * 			   ActionInterface. (asel)
+ * 2017-05-03: Ash gave demo
  */
 public abstract class SWAction extends Action implements SWActionInterface {
 	
